@@ -1,9 +1,8 @@
 package com.flurry.android;
 
 import android.content.Context;
+
 import java.util.Map;
-
-
 
 public class FlurryAgent{
 	
