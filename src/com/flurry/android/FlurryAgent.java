@@ -117,21 +117,21 @@ public final class FlurryAgent {
 
 	}
 
-	static boolean getAd (Context context, String adSpace, ViewGroup viewGroup, FlurryAdSize size, long timeout){
+	//static boolean getAd (Context context, String adSpace, ViewGroup viewGroup, FlurryAdSize size, long timeout){
 		return(false);
-	}
+	//}
 	
 	static void initializeAds (Context context){
 
 	}
 	
-	static boolean isAdAvailable (Context context, String adSpace, FlurryAdSize size, long timeout){
+	//static boolean isAdAvailable (Context context, String adSpace, FlurryAdSize size, long timeout){
 		return (false);
-	}
+	//}
 	
-	static boolean fetchAdsForSpace (Context context, String adSpace, FlurryAdSize size){
+	//static boolean fetchAdsForSpace (Context context, String adSpace, FlurryAdSize size){
 		return(false);
-	}
+	//}
 	
 	static void removeAd (Context context, String adSpace, ViewGroup viewGroup){
 
