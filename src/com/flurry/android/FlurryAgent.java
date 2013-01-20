@@ -113,7 +113,7 @@ public final class FlurryAgent implements android.location.LocationListener {
 
 	}
 	
-	vstatic void setUserId (String userId){
+	public static void setUserId (String userId){
 
 	}
 
