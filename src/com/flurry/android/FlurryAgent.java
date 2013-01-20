@@ -141,9 +141,9 @@ public final class FlurryAgent {
 
 	}
 	
-	static void setAdListener (FlurryAdListener listener){
+	//static void setAdListener (FlurryAdListener listener){
 
-	}
+	//}
 	
 	static void setLocation (float lat, float lon){
 
