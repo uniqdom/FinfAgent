@@ -8,7 +8,7 @@ import android.location.Criteria;
 import java.util.Map;
 
 
-public final class FlurryAgent implements android.location.LocationListener {
+public final class FlurryAgent {
 	
 	static byte 	UNKNOWN = -1;
 	static byte 	FEMALE = 0;
